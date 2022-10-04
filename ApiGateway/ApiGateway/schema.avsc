@@ -1,0 +1,20 @@
+{
+  "name": "example",
+  "type": "record",
+  "namespace": "com.my.company",
+  "doc": "Kafka JS example schema",
+  "fields": [
+     {
+      "name": "Id",
+      "type": "string"
+    },
+    {
+      "name": "Topic",
+      "type": "string"
+    },
+    {
+      "name": "Bill",
+      "type": "string"
+    }
+  ]
+}
